@@ -1,0 +1,4 @@
+
+(fp_lib_table
+  (lib (name "DC31BADGE-CARD-OUTLINE")(type KiCad)(uri "$(KIPRJMOD)/DC31BADGE-CARD-OUTLINE.pretty")(options "")(descr ""))
+)
