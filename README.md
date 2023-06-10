@@ -10,3 +10,27 @@ Feel free to explore the contents of this repository, which includes a variety o
 
 Let your imagination run wild, and let's make DEFCON 31's SAO project a memorable and entertaining experience!
 
+## How to Use This Template
+
+To use this template, follow these steps:
+
+1. First, check the location where KiCad stores templates on your computer. You can usually find this information in the KiCad settings or preferences.
+
+2. Once you have identified the template location, navigate to that folder on your computer.
+
+3. Copy the `folderDefcon31-Tooth` folder from this repository and paste it into the KiCad templates folder.
+
+4. After copying the template folder, open KiCad on your computer.
+
+5. In KiCad, go to the **File** menu and select the **New Project From Template** option.
+
+6. A dialog box will appear showing the available templates. Look for the **Defcon31-Tooth** template and select it.
+
+7. Follow the prompts to set the project name, location, and any other required information.
+
+8. Once you have provided the necessary details, click **Create** to start your new project based on the DEFCON 31 SAO template.
+
+9. You can now begin customizing the project, adding your own design, and implementing your unique ideas for your Shitty Add On.
+
+We hope this template provides a solid foundation for your DEFCON 31 SAO project. Feel free to modify and adapt the template as needed to suit your specific requirements and creative vision.
+
